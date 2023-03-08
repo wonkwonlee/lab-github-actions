@@ -89,3 +89,4 @@ Copyright (c) John Rofrano. All rights reserved.
 Licensed under the Apache License. See [LICENSE](LICENSE)
 
 This repository is part of the NYU masters class: **CSCI-GA.2820-001 DevOps and Agile Methodologies** conceived, created, and taught by [John Rofrano Adjunct Instructor](https://cs.nyu.edu/~rofrano/), NYU Courant Institute of Mathematical Sciences, Graduate Division, Computer Science, and NYU Stern School of Business.
+
